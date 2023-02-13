@@ -192,6 +192,7 @@ if __name__ == '__main__':
     scheduler.run()
     
     my_threads.append(scheduler)
+    print("fin")
     
     
         
